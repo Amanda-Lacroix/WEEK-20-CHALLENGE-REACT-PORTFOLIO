@@ -5,7 +5,6 @@
   ## Table of Contents
 
   - [Description](#description)
-  - [Walkthrough](#walkthrough)
   - [Screenshoot](#screenshot)
   - [Questions](#questions)
   - [Credits](#credits)
@@ -13,24 +12,20 @@
 
     
   ## Description
-  
-
-
-  ## Walkthrough 
-  
-  The a walkthrough of this application can be found at: 
+  A React App to showcase my work with other developers and future employers.
 
   ## Screenshot
  
-  ![Tech Blog](Assets/Images/)
+  ![Temp Photo](Assets/Lost-Dutchman.jpg)
 
   ## Questions
   CONTACT: Amanda Lacroix
   EMAIL: amanda_lacroix@hotmail.com
-  REPO: https://github.com/Amanda-Lacroix/
+  REPO: https://github.com/Amanda-Lacroix/WEEK-20-CHALLENGE-REACT-PORTFOLIO 
 
   ## Credits
- - Starter code provided by: https://git.bootcampcontent.com/new-brunswick/UNB-VIRT-FSF-PT-01-2023-U-LOLC
+ - Starter code provided by: create-react-app for React
+ - HTML/CSS from https://amanda-lacroix.github.io/WEEK-2-CHALLENGE/
  
 
   ## License
