@@ -12,7 +12,7 @@
 
     
   ## Description
-  A React App to showcase my work with other developers and future employers.
+  A React App to showcase my work with other developers and future employers. 
 
   ## Screenshot
  
@@ -22,6 +22,7 @@
   CONTACT: Amanda Lacroix
   EMAIL: amanda_lacroix@hotmail.com
   REPO: https://github.com/Amanda-Lacroix/WEEK-20-CHALLENGE-REACT-PORTFOLIO 
+  DEPLOYED APP: 
 
   ## Credits
  - Starter code provided by: create-react-app for React

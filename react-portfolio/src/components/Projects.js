@@ -4,22 +4,31 @@ import React from 'react';
 const Projects = () => {
   return (
     <div id="projects" className="box-style">
-      <h2>PROJECTS</h2>
+      <h2>PORTFOLIO</h2>
       <div className="flex-container">
         <section className="projects">
-          <header>WEEK-1-CHALLENGE</header>
-          <a href="https://amanda-lacroix.github.io/WEEK-1-CHALLENGE/">
-            <img src="./Assets/01-html-css-git-homework-demo.png" alt="screenshot of website showing 3 males and 1 female sitting around a table having a meeting." />
-          </a>
+          <header>A BREW & A BITE</header>
+          <div>
+            <a href="https://mschuur.github.io/A-Brew-and-A-Bite/">Deployed Application</a>
+            <a href="https://github.com/MSchuur/A-Brew-and-A-Bite">GitHub Repository</a>
+          </div>
+        </section>
+        
+        <section className="projects">
+          <header>ROCKET RESUMES</header>
+          <div>
+            <a href="https://rocket-resumes.herokuapp.com/">Deployed Application</a>
+            <a href="https://github.com/aturner1995/rocket-resumes">GitHub Repository</a>
+          </div>
         </section>
 
         <section className="projects">
-          <header>Under Construction #1</header>
-          {/* <img src="./Assets/Lost-Dutchman.jpg" alt="image of Lost Dutchman" /> */}
-          <p>Stay Tuned!</p>
+          <header>UNDER CONSTRUCTION</header>
+          <div>
+            {/* <a href="https://rocket-resumes.herokuapp.com/">Deployed Application</a>
+            <a href="https://github.com/aturner1995/rocket-resumes">GitHub Repository</a> */}
+          </div>
         </section>
-
-      
       </div>
     </div>
   );
