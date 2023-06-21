@@ -1,15 +1,13 @@
 import React from 'react';
 
-// import ''
 
-const Footer = () => {
+const About = () => {
   return (
-    <footer className="box-style">
-      <h2>CONTACT</h2>
-      <a href="https://github.com/amanda-lacroix"><span>GitHub</span></a>
-      <a href="https://linkedin.com/in/amanda-lacroix"><span>LinkedIn</span></a>
-    </footer>
+    <section className="box-style">
+      <h2 id="about">ABOUT</h2>
+      <p>Motto: Feet + Heartbeat = Will Travel</p>
+    </section>
   );
 };
 
-export default Footer;
+export default About;
