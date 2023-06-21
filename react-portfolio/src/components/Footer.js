@@ -1,16 +1,20 @@
 import React from 'react';
-
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+    faInstagram
+  } from "@fortawesome/free-brands-svg-icons";
 
 const Footer = () => {
-  return (
 
-      <footer id="contact" className="box-style">
-      <a href="https://github.com/amanda-lacroix">GitHub</a>
-      <a href="https://linkedin.com/">LinkedIn</a>
-      <a href="link-to-third-platform-profile">Third Platform</a>
-    </footer>
-
+   return (
+    <div class="social-container" className="box-style" id="contact">
+      <a href="https://www.instagram.com/feet_heartbeat_will_travel"
+        className="instagram social">
+        <FontAwesomeIcon icon={faInstagram} size="2x" />
+      </a>
+    </div>
   );
 };
 
 export default Footer;
+
