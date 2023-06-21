@@ -3,8 +3,8 @@ import React from 'react';
 
 const Contact = () => {
   return (
-    <form>
-    <div class="form-group"className="box-style" id="contact">
+    <form id="contact">
+    <div class="form-group"className="box-style" >
       <h2>CONTACT FORM</h2>
       <label for="exampleFormControlInput1">Email address</label>
       <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="you@me.com"></input>
