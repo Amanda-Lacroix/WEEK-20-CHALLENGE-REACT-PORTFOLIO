@@ -7,6 +7,7 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 
 import './style.css';
+import Resume from './components/Resume';
 // import './Assets';
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <main>
         <About />
         <Projects />
+        <Resume />
         <Contact />
       </main>
       <Footer />
