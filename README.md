@@ -27,6 +27,8 @@
   ## Credits
  - Starter code provided by: create-react-app for React
  - HTML/CSS from https://amanda-lacroix.github.io/WEEK-2-CHALLENGE/
+ - CSS from https://getbootstrap.com/ 
+ - Tutorials - https://www.digitalocean.com/community/tutorials/
  
 
   ## License
