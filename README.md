@@ -16,7 +16,7 @@
 
   ## Screenshot
  
-  ![Portfolio](./react-portfolio/src/Images/PortScrnShot.jpg)
+  ![Portfolio](static/media/PortScrnShot.jpg)
 
   ## Questions
   CONTACT: Amanda Lacroix
