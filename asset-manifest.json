@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/WEEK-20-CHALLENGE-REACT-PORTFOLIO/static/css/main.156b8188.css",
+    "main.js": "/WEEK-20-CHALLENGE-REACT-PORTFOLIO/static/js/main.97873f3b.js",
+    "static/media/AmandA.jpg": "/WEEK-20-CHALLENGE-REACT-PORTFOLIO/static/media/AmandA.f9c6f47a59c386b94c36.jpg",
+    "index.html": "/WEEK-20-CHALLENGE-REACT-PORTFOLIO/index.html",
+    "main.156b8188.css.map": "/WEEK-20-CHALLENGE-REACT-PORTFOLIO/static/css/main.156b8188.css.map",
+    "main.97873f3b.js.map": "/WEEK-20-CHALLENGE-REACT-PORTFOLIO/static/js/main.97873f3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.156b8188.css",
+    "static/js/main.97873f3b.js"
+  ]
+}
